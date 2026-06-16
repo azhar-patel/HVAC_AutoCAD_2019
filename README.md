@@ -1,1 +1,1 @@
-# HVAC_AutoCAD_2019.. just crested rhis repo to store dewaing pdf
+# HVAC_AutoCAD_2019. Created this repo to store AutoCAD pdf
